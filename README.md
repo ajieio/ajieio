@@ -1,3 +1,4 @@
+![GQYximKXIAA4Dqp](./src/GQYximKXIAA4Dqp.jpg)
 ![](README.assets/Bottom_up.svg)
 
 <!--   my-icons -->
